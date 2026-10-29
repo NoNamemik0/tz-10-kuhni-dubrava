@@ -6,16 +6,16 @@
 | Что | Ссылка |
 |---|---|
 | Сайт на Vercel | https://tz-10-kuhni-dubrava.vercel.app |
-| Таблица заявок «Dubrava — Leads» | _ссылка_ |
+| Таблица заявок «Dubrava — Leads» | [открыть](https://docs.google.com/spreadsheets/d/1KwqZguy9LaMypyuNHZdUVnWvL2UpFsK-i1DSDMUiCxI/edit) |
 | Дашборд DataLens «ДУБРАВА — measure_nov_2026» | _ссылка_ |
 | Публикация в Instagram | _ссылка_ |
 | Reel с автоответами (ManyChat) | _ссылка_ |
-| Публикация во ВКонтакте | _ссылка_ |
+| Публикация во ВКонтакте | [страница ВК](https://m.vk.ru/id591163677) |
 | Публикация в Telegram (канал) | _ссылка_ |
-| Публикация на YouTube | _ссылка_ |
+| Публикация на YouTube | [канал YouTube](https://www.youtube.com/@TexderEditz) |
 | Публикации блогеров-партнёров | _ссылка 1_, _ссылка 2_ |
 
-Идентификатор ресурса GA4: `G-XXXXXXXXXX`
+Идентификатор ресурса GA4: `G-V7QHEY63GM`
 
 Доступ Viewer к ресурсу GA4 выдан: ___ (e-mail Заказчика)
 

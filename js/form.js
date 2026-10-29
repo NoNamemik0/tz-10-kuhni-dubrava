@@ -5,7 +5,7 @@
 
   // Адрес веб-приложения Apps Script (Развернуть → Веб-приложение → URL).
   // ЗАМЕНИТЕ на свой адрес вида https://script.google.com/macros/s/.../exec
-  var ENDPOINT = 'https://script.google.com/macros/s/ВСТАВЬТЕ_ID_РАЗВЕРТЫВАНИЯ/exec';
+  var ENDPOINT = 'https://script.google.com/macros/s/AKfycbzZciFahNzHQQJ8dxhp0rMkpxARw9Bzio9HF2-utmcYFH6SfD2RIgj-BePIVPK3dA/exec';
 
   var storage = window.dubravaStorage;
 
